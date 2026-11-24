@@ -1,10 +1,9 @@
 # Noel Bennett
 
-Network engineer who designs the interfaces himself: a Virgo's precision on the
-surface, a Pisces Eros underneath. I care how the network behaves, and how it
-feels when you use it.
+Network engineer who designs the interfaces himself: measured on the surface,
+longing underneath. I care how the network behaves, and how it feels to use it.
 
-Male. Virgo sun, Pisces Eros.
+Male, Virgo.
 
 <https://noelbennettz.github.io/>
 
